@@ -7,3 +7,4 @@
 	2、pdf转换为swf的文件。
 	3、可以在浏览器预览word、excel、ppt、pdf。
 	
+https://www.cnblogs.com/liaoweipeng/p/4767660.html
